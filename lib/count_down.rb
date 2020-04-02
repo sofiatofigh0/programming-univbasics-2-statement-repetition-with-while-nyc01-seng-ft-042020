@@ -5,5 +5,5 @@ while (count <= 10  &&  count >= 0) do
   count -= 1
 end
 
-
+puts "Happy New Year!"
 # Write your code here
